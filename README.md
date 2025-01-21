@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Run Streamlit App
 ```sh
-streamlit run dashboard(1).py
+streamlit run dashboard(2).py
 atau
-python -m streamlit run dashboard(1).py  
+python -m streamlit run dashboard(2).py  
 ```
