@@ -8,7 +8,7 @@ from sklearn.cluster import KMeans
 # Load data
 @st.cache_data
 def load_data():
-    hour_df = pd.read_csv("https://raw.githubusercontent.com/Flytomarsz/Bike-Sharing-System-Analysis/refs/heads/main/hour.csv")
+    hour_df = pd.read_csv("https://raw.githubusercontent.com/Flytomarsz/Bike-Sharing-System-Analysis/refs/heads/main/Dashboard/hour.csv")
     hour_df["dteday"] = pd.to_datetime(hour_df["dteday"])
     return hour_df
 
