@@ -6,7 +6,7 @@ This dataset has significant differences between casual user and registrated use
 
 Python Notebook used to inspect, cleaning data, and executive summary for this analysis can be found here [(https://github.com/Flytomarsz/Bike-Sharing-System-Analysis/blob/main/Proyek_Analisis_Data%20(1).ipynb)].
 
-An interactive dashboard using Streamlit apps to report and explore bike rental behavioral can be found here [link].
+An interactive dashboard using Streamlit apps to report and explore bike rental behavioral can be found here [https://bike-sharing-system-analysis-entcp7vuilrvmcz4hvk5iv.streamlit.app/].
 
 ## Business Questions
 1. How is the user's segmentation in 2012?
